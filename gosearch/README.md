@@ -26,7 +26,7 @@ Replace <url> with the target URL to scan and <wordlist> with the path to the wo
 
 Example Usage
 ```bash
-Copy code
+# Copy code
 ./web-directory-finder https://example.com /path/to/wordlist.txt
 ```
 ## Dependencies
