@@ -21,7 +21,6 @@ GoSearch is a command-line tool written in Go (Golang) that helps in discovering
 Replace <url> with the target URL to scan and <wordlist> with the path to the wordlist file containing directory names to test.
 
 ## Options
-- -silent: Run in silent mode to suppress directory testing messages.
 - -verbose: Run in verbose mode to display each directory being tested in real-time.
 
 Example Usage
