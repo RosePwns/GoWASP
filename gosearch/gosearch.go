@@ -155,5 +155,3 @@ func findUserInputAreas(baseURL, url string) {
 		// Additional logic to analyze JavaScript code can be added here
 	})
 }
-	// Add more checks as needed based on your analysis requirements
-}
