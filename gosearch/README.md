@@ -9,9 +9,9 @@ GoSearch is a command-line tool written in Go (Golang) that helps in discovering
 - Query parameter analysis: Detects query parameters in URLs and provides insights for further analysis.
 - JavaScript code analysis: Identifies JavaScript code embedded in web pages and assists in understanding its interaction with user input.
 ## How to Compile and Run
-1. Clone the repository: git clone https://github.com/your-username/web-directory-finder.git
-2. Navigate to the project directory: cd web-directory-finder
-3. Compile the source code: go build
+1. Clone the repository: git clone https://github.com/rosepwns/GoWasp/gosearch/gosearch.git
+2. Navigate to the project directory: ```bash cd gosearch ```
+3. Compile the source code: ```bash go build gosearch.go```
 4. Run the executable with the target URL and wordlist file as arguments:
 
 ```php
